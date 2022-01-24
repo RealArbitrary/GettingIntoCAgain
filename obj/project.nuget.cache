@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jwNK1D1ebxnKIRDFSMnoIhlSeJyOjrrHVxXRYyH6MtUnq67r5f/qMhv5LxmqMB9i1ogck/1dKa0Lje8GeppGbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\GettingIntoCAgain\\GettingIntoCAgain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dewet\\.nuget\\packages\\graphql\\4.6.0\\graphql.4.6.0.nupkg.sha512",
+    "C:\\Users\\dewet\\.nuget\\packages\\graphql-parser\\7.2.0\\graphql-parser.7.2.0.nupkg.sha512",
+    "C:\\Users\\dewet\\.nuget\\packages\\graphql.systemtextjson\\4.6.0\\graphql.systemtextjson.4.6.0.nupkg.sha512",
+    "C:\\Users\\dewet\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\dewet\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\dewet\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\dewet\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

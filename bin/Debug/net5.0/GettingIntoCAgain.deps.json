@@ -1,0 +1,114 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GettingIntoCAgain/1.0.0": {
+        "dependencies": {
+          "GraphQL": "4.6.0",
+          "GraphQL.SystemTextJson": "4.6.0"
+        },
+        "runtime": {
+          "GettingIntoCAgain.dll": {}
+        }
+      },
+      "GraphQL/4.6.0": {
+        "dependencies": {
+          "GraphQL-Parser": "7.2.0",
+          "Microsoft.CSharp": "4.7.0",
+          "System.ComponentModel.Annotations": "4.7.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.7.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/GraphQL.dll": {
+            "assemblyVersion": "4.6.0.0",
+            "fileVersion": "4.6.0.0"
+          }
+        }
+      },
+      "GraphQL-Parser/7.2.0": {
+        "runtime": {
+          "lib/netstandard2.1/GraphQL-Parser.dll": {
+            "assemblyVersion": "7.2.0.0",
+            "fileVersion": "7.2.0.0"
+          }
+        }
+      },
+      "GraphQL.SystemTextJson/4.6.0": {
+        "dependencies": {
+          "GraphQL": "4.6.0",
+          "System.Text.Json": "4.7.2"
+        },
+        "runtime": {
+          "lib/netstandard2.1/GraphQL.SystemTextJson.dll": {
+            "assemblyVersion": "4.6.0.0",
+            "fileVersion": "4.6.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "System.ComponentModel.Annotations/4.7.0": {},
+      "System.Runtime.CompilerServices.Unsafe/4.7.1": {},
+      "System.Text.Json/4.7.2": {}
+    }
+  },
+  "libraries": {
+    "GettingIntoCAgain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphQL/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-21MDCghDwdQGMXj5Emg6OzDGcgtD1pZ2hXpRJgWaMoLSZV5d5L6sjOhfwnjboLsf1kLErN+mANWevfSUuR3KOg==",
+      "path": "graphql/4.6.0",
+      "hashPath": "graphql.4.6.0.nupkg.sha512"
+    },
+    "GraphQL-Parser/7.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-38qDxnwdUHK5zkWL28UhkmytkSSwDvX+dBhOVN1USgpZg7E2PUVNixbyG8JKEuRw/vqnhBWhk4JwkqA6jvHaFA==",
+      "path": "graphql-parser/7.2.0",
+      "hashPath": "graphql-parser.7.2.0.nupkg.sha512"
+    },
+    "GraphQL.SystemTextJson/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jUDx+c/oU3xd5IHjdX/mQz4vAjkFHRHqHByzzbE6cFPR9ikspBaeVYlX89Nv2FdFXy3utrz2HXrxgolHvjEuRg==",
+      "path": "graphql.systemtextjson/4.6.0",
+      "hashPath": "graphql.systemtextjson.4.6.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0YFqjhp/mYkDGpU0Ye1GjE53HMp9UVfGN7seGpAMttAC0C40v5gw598jCgpbBLMmCo0E5YRLBv5Z2doypO49ZQ==",
+      "path": "system.componentmodel.annotations/4.7.0",
+      "hashPath": "system.componentmodel.annotations.4.7.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zOHkQmzPCn5zm/BH+cxC1XbUS3P4Yoi3xzW7eRgVpDR2tPGSzyMZ17Ig1iRkfJuY0nhxkQQde8pgePNiA7z7TQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.7.1",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+    },
+    "System.Text.Json/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
+      "path": "system.text.json/4.7.2",
+      "hashPath": "system.text.json.4.7.2.nupkg.sha512"
+    }
+  }
+}
