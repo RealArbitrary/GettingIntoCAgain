@@ -8,7 +8,7 @@ namespace GettingIntoCAgain.MyApplications
 {
     class BurgerMaker
     {
-        public static void callMe()
+        public static void CallMe()
         {
             Console.WriteLine("Add base ingredient!\n");
             AddIngredients();

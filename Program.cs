@@ -30,7 +30,7 @@ namespace GettingIntoCAgain
                         MadLibs.CallMe();
                         break;
                     case "3":
-                        ChooseYourOwnAdventure.callMe();
+                        ChooseYourOwnAdventure.CallMe();
                         break;
                     default:
                         isProgramRunning = false;

@@ -8,7 +8,7 @@ namespace GettingIntoCAgain.CodeCademyApplications
 {
     public class ChooseYourOwnAdventure
     {
-        public static void callMe()
+        public static void CallMe()
         {
             //TODO Refactor logic to ternary operators
 
