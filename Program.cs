@@ -8,6 +8,7 @@ namespace GettingIntoCAgain
     {
         static void Main(string[] args)
         {
+            BurgerMaker.callMe();
             var isProgramRunning = true;
             var userDecision = "";
 

@@ -10,7 +10,22 @@ namespace GettingIntoCAgain.MyApplications
     {
         public static void callMe()
         {
+            Console.WriteLine("Add base ingredient!\n");
+            AddIngredients();
+            Console.WriteLine("Now add your favorite!\n");
+            AddIngredients("Pickles");
 
+        }
+
+        static void AddIngredients(string ingredient)
+        {
+            Console.WriteLine($"Added {ingredient}");
+
+        }
+
+        static void AddIngredients()
+        {
+            Console.WriteLine("Added Buns!");
         }
     }
 }
