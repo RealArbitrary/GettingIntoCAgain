@@ -9,7 +9,6 @@ namespace GettingIntoCAgain
         static void Main(string[] args)
         {
 
-            ArchitectArithmetic.CallMe();
 
             var isProgramRunning = false;
             var userDecision = "";
