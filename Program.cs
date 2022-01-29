@@ -8,8 +8,10 @@ namespace GettingIntoCAgain
     {
         static void Main(string[] args)
         {
-            BurgerMaker.callMe();
-            var isProgramRunning = true;
+
+            ArchitectArithmetic.CallMe();
+
+            var isProgramRunning = false;
             var userDecision = "";
 
             while (isProgramRunning)
@@ -38,5 +40,6 @@ namespace GettingIntoCAgain
                 }
             }
         }
+        
     }
 }
