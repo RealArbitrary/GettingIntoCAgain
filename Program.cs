@@ -8,7 +8,7 @@ namespace GettingIntoCAgain
     {
         static void Main(string[] args)
         {
-
+            ExquisiteCorpse.CallMe();
 
             var isProgramRunning = false;
             var userDecision = "";
