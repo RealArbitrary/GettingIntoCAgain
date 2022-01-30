@@ -12,7 +12,8 @@ namespace GettingIntoCAgain
 
             var isProgramRunning = false;
             var userDecision = "";
-
+            //TODO add all classes to main menu
+            //TODO make the menu interactive, allow it to go in and out of classes
             while (isProgramRunning)
             {
                 Console.WriteLine("Options:\n" +
