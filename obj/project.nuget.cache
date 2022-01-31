@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SdpfwsaNYMUgabQtcONVm93MsN/qkrZDttb1uDEZw8CQgp/gix+LojA8+ECo8nVWFRZmz+piNubTEUUZoCRyXA==",
+  "dgSpecHash": "jwNK1D1ebxnKIRDFSMnoIhlSeJyOjrrHVxXRYyH6MtUnq67r5f/qMhv5LxmqMB9i1ogck/1dKa0Lje8GeppGbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\GettingIntoCAgain.csproj",
+  "projectFilePath": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\GettingIntoCAgain\\GettingIntoCAgain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dewet\\.nuget\\packages\\graphql\\4.6.0\\graphql.4.6.0.nupkg.sha512",
     "C:\\Users\\dewet\\.nuget\\packages\\graphql-parser\\7.2.0\\graphql-parser.7.2.0.nupkg.sha512",
