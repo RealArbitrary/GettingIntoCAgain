@@ -40,6 +40,13 @@ namespace GettingIntoCAgain
                 }
             }
         }
+
+        //For later use
+        static string[] MethodArray()
+        {
+            string[] myMethods = new string[] {  };
+            return myMethods;
+        }
         
     }
 }
