@@ -1,6 +1,7 @@
 ﻿using System;
 using GettingIntoCAgain.CodeCademyApplications;
 using GettingIntoCAgain.MyApplications;
+using GettingIntoCAgain.MainMenu;
 
 namespace GettingIntoCAgain
 {
@@ -8,36 +9,40 @@ namespace GettingIntoCAgain
     {
         static void Main(string[] args)
         {
-            var isProgramRunning = false;
-            var userDecision = "";
-            //TODO add all classes to main menu
-            //TODO make the menu interactive, allow it to go in and out of classes
-            while (isProgramRunning)
+            bool endApp = false;
+            while (!endApp)
             {
-                Console.WriteLine("Options:\n" +
-                    "1.PasswordChecker\n " +
-                    "2.MadLibs\n " +
-                    "3.ChooseYourOwnAdventure\n" +
-                    "0.Exit");
-                userDecision = Console.ReadLine();
-
-                switch (userDecision)
+                WelcomeMessage();
+                var userInput = Console.ReadLine();
+                switch (userInput)
                 {
+                    case "0":
+                        endApp = true;
+                        break;
                     case "1":
                         PasswordChecker.CallMe();
                         break;
-                    case "2":
-                        MadLibs.CallMe();
-                        break;
-                    case "3":
-                        ChooseYourOwnAdventure.CallMe();
-                        break;
                     default:
-                        isProgramRunning = false;
+                        Console.WriteLine("Something went wrong, try one of the menu options or typing \"GIC\"");
                         break;
                 }
             }
         }
+        private static void WelcomeMessage()
+        {
+            Console.WriteLine("Hi and welcome!\n" +
+                "This application is intended for educational purposes and, also to have fun.\n" +
+                "Functional menu items are:\n" +
+                "At any point you can type \"GIC\" for help. This input is case sensitive and validated.\n" +
+                "Typing \"GIC\" will print the current menu items information, to describe what you are looking at!");
+            MenuItems();
+        }
+        private static void MenuItems()
+        {
+            Console.WriteLine("1. Password Checker\n" +
+                "0. Quit to Desktop\n");
+        }
+        
         #region
         //Using an Array method, find the position for the first 3-star rated song and save it to a variable.Print a message to the console, like “Song number X is rated three stars”.
         private static void MethodArray()

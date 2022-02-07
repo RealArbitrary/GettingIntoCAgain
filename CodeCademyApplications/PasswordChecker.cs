@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace GettingIntoCAgain.CodeCademyApplications
 {
@@ -10,31 +7,43 @@ namespace GettingIntoCAgain.CodeCademyApplications
     {
         public static void CallMe()
         {
-            #region
-            string password = "PassWord01";
-            bool doesItHaveUpper;
+            var isPasswordCheckerRunning = true;
 
-            for (int i = 0; i < password.Length; i++)
+            while (isPasswordCheckerRunning)
             {
-                doesItHaveUpper = Char.IsUpper(password, i);
-                Console.WriteLine(doesItHaveUpper);
-            }
-            #endregion
+                Console.WriteLine("1. Check Password\n" +
+                "2. Main Menu\n");
 
-            #region
-            //int minLength;
-            //string uppercase;
-            //string lowercase;
-            //string digits;
-            //string specialChars;
-            //int score = 0;
-            //Console.WriteLine("Please enter your password:\n");
-            //string password = Console.ReadLine();
-            //if (password >= minLength)
-            //{
-            //    score += 1;
-            //}
-            #endregion
+                switch (Console.ReadLine())
+                {
+                    case "1":
+                        Console.WriteLine("Provide the password you want to check: ");
+                        Console.WriteLine(CheckPassword(Console.ReadLine()));
+                        break;
+                    case "2":
+                        isPasswordCheckerRunning = false;
+                        break;
+                    default:
+                        Console.WriteLine("Please type \"1\" or \"2\"");
+                        break;
+                }
+            }
+        }
+        //TODO Return which character was the upper case one and write it to the user
+        private static string CheckPassword(string password)
+        {
+            bool hasUpper = password.Any(char.IsUpper);
+            
+            if (hasUpper)
+            {
+                password = $"Upper case character detected!";
+            }
+            else
+            {
+                password = "No upper characters detected.";
+            }
+
+            return password;
         }
     }
 }
