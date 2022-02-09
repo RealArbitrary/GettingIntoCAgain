@@ -25,6 +25,9 @@ namespace GettingIntoCAgain
                     case "2":
                         CaesarCipher.CallMe();
                         break;
+                    case "3":
+                        TrueOrFalse.CallMe();
+                        break;
                     default:
                         Console.WriteLine("Something went wrong, try one of the menu options or typing \"GIC\"");
                         break;
@@ -44,6 +47,7 @@ namespace GettingIntoCAgain
         {
             Console.WriteLine("1. Password Checker\n" +
                 "2. Caesar Cipher\n" +
+                "3. TrueOrFalse\n" +
                 "0. Quit to Desktop\n");
         }
         
