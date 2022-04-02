@@ -32,35 +32,12 @@ namespace GettingIntoCAgain.CodeCademyApplications
         private static void MasterMethod()
         {
             string[] questions = new string[] { "Is the sky blue?", "Are roses red?", "Is C# fun?" };
-            bool[] answers = new bool[] { true, false, true };
-            bool[] responses = new bool[3];
-            if (questions.Length != responses.Length)
-            {
-                Console.WriteLine("The two arrays are not same length");
-            }
+            //Correct answers to questions
+            bool[] answers = { true, false, true };
+            //Responses, same length as questions array
+            bool[] responses = new bool[questions.Length];
+            //To keep track of where we are in the loop
             int askingIndex = 0;
-            string input;
-            bool isBool = false;
-            bool inputBool = true;
-            foreach (var question in questions)
-            {
-                while (!isBool)
-                {
-                    Console.WriteLine(questions[askingIndex]);
-                    Console.WriteLine("True or False?");
-                    input = Console.ReadLine();
-                    if (input != "true" || input != "True")
-                    {
-                        Console.WriteLine("Please type \"true\", \"True\", \"false\" or \"False\"");
-                    }
-                    else if (input != "false" || input != "False")
-                    {
-                        Console.WriteLine("Please type \"true\", \"True\", \"false\" or \"False\"");
-                    }
-                    isBool = Boolean.TryParse(input, out bool result);
-                }
-                askingIndex++;
-            }
         }
     }
 }

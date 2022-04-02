@@ -21,12 +21,18 @@ namespace GettingIntoCAgain
                         break;
                     case "1":
                         PasswordChecker.CallMe();
+                        
                         break;
                     case "2":
                         CaesarCipher.CallMe();
                         break;
                     case "3":
                         TrueOrFalse.CallMe();
+                        break;
+                    case "4":
+                        DeWarrior deWarrior = new DeWarrior(88, "deWarrior", "EagleBearer");
+                        Console.WriteLine(deWarrior.ItemLevel);
+                        Console.WriteLine(deWarrior.Name);
                         break;
                     default:
                         Console.WriteLine("Something went wrong, try one of the menu options or typing \"GIC\"");
