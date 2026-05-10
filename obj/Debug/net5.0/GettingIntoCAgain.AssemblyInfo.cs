@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GettingIntoCAgain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+402c48f32235369531a0cc51be969ad90457b92f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GettingIntoCAgain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GettingIntoCAgain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
