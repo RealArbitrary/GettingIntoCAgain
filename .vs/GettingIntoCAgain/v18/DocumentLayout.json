@@ -1,7 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|c:\\users\\dewet\\source\\repos\\gettingintocagain\\myapplications\\burgermaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|solutionrelative:myapplications\\burgermaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|c:\\users\\dewet\\source\\repos\\gettingintocagain\\mainmenu\\debugmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|solutionrelative:mainmenu\\debugmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|c:\\users\\dewet\\source\\repos\\gettingintocagain\\codecademyapplications\\trueorfalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|solutionrelative:codecademyapplications\\trueorfalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|c:\\users\\dewet\\source\\repos\\gettingintocagain\\codecademyapplications\\passwordchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|solutionrelative:codecademyapplications\\passwordchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|c:\\users\\dewet\\source\\repos\\gettingintocagain\\codecademyapplications\\madlibs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|solutionrelative:codecademyapplications\\madlibs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|c:\\users\\dewet\\source\\repos\\gettingintocagain\\codecademyapplications\\exquisitecorpse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|solutionrelative:codecademyapplications\\exquisitecorpse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|c:\\users\\dewet\\source\\repos\\gettingintocagain\\codecademyapplications\\dewarrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|solutionrelative:codecademyapplications\\dewarrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|c:\\users\\dewet\\source\\repos\\gettingintocagain\\codecademyapplications\\chooseyourownadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|solutionrelative:codecademyapplications\\chooseyourownadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|c:\\users\\dewet\\source\\repos\\gettingintocagain\\codecademyapplications\\caesarcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|solutionrelative:codecademyapplications\\caesarcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|c:\\users\\dewet\\source\\repos\\gettingintocagain\\codecademyapplications\\architectarithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|solutionrelative:codecademyapplications\\architectarithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|c:\\users\\dewet\\source\\repos\\gettingintocagain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4D98DC-B308-48CF-B217-3E5C4163FB48}|GettingIntoCAgain.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +75,149 @@
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BurgerMaker.cs",
+              "DocumentMoniker": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\MyApplications\\BurgerMaker.cs",
+              "RelativeDocumentMoniker": "MyApplications\\BurgerMaker.cs",
+              "ToolTip": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\MyApplications\\BurgerMaker.cs",
+              "RelativeToolTip": "MyApplications\\BurgerMaker.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T05:46:14.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DebugMenu.cs",
+              "DocumentMoniker": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\MainMenu\\DebugMenu.cs",
+              "RelativeDocumentMoniker": "MainMenu\\DebugMenu.cs",
+              "ToolTip": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\MainMenu\\DebugMenu.cs",
+              "RelativeToolTip": "MainMenu\\DebugMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T05:46:04.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrueOrFalse.cs",
+              "DocumentMoniker": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\CodeCademyApplications\\TrueOrFalse.cs",
+              "RelativeDocumentMoniker": "CodeCademyApplications\\TrueOrFalse.cs",
+              "ToolTip": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\CodeCademyApplications\\TrueOrFalse.cs",
+              "RelativeToolTip": "CodeCademyApplications\\TrueOrFalse.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T05:45:57.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordChecker.cs",
+              "DocumentMoniker": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\CodeCademyApplications\\PasswordChecker.cs",
+              "RelativeDocumentMoniker": "CodeCademyApplications\\PasswordChecker.cs",
+              "ToolTip": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\CodeCademyApplications\\PasswordChecker.cs",
+              "RelativeToolTip": "CodeCademyApplications\\PasswordChecker.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T05:45:49.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MadLibs.cs",
+              "DocumentMoniker": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\CodeCademyApplications\\MadLibs.cs",
+              "RelativeDocumentMoniker": "CodeCademyApplications\\MadLibs.cs",
+              "ToolTip": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\CodeCademyApplications\\MadLibs.cs",
+              "RelativeToolTip": "CodeCademyApplications\\MadLibs.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T05:45:30.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExquisiteCorpse.cs",
+              "DocumentMoniker": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\CodeCademyApplications\\ExquisiteCorpse.cs",
+              "RelativeDocumentMoniker": "CodeCademyApplications\\ExquisiteCorpse.cs",
+              "ToolTip": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\CodeCademyApplications\\ExquisiteCorpse.cs",
+              "RelativeToolTip": "CodeCademyApplications\\ExquisiteCorpse.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T05:45:13.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeWarrior.cs",
+              "DocumentMoniker": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\CodeCademyApplications\\DeWarrior.cs",
+              "RelativeDocumentMoniker": "CodeCademyApplications\\DeWarrior.cs",
+              "ToolTip": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\CodeCademyApplications\\DeWarrior.cs",
+              "RelativeToolTip": "CodeCademyApplications\\DeWarrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T05:44:57.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChooseYourOwnAdventure.cs",
+              "DocumentMoniker": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\CodeCademyApplications\\ChooseYourOwnAdventure.cs",
+              "RelativeDocumentMoniker": "CodeCademyApplications\\ChooseYourOwnAdventure.cs",
+              "ToolTip": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\CodeCademyApplications\\ChooseYourOwnAdventure.cs",
+              "RelativeToolTip": "CodeCademyApplications\\ChooseYourOwnAdventure.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T05:44:47.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CaesarCipher.cs",
+              "DocumentMoniker": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\CodeCademyApplications\\CaesarCipher.cs",
+              "RelativeDocumentMoniker": "CodeCademyApplications\\CaesarCipher.cs",
+              "ToolTip": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\CodeCademyApplications\\CaesarCipher.cs",
+              "RelativeToolTip": "CodeCademyApplications\\CaesarCipher.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T05:44:30.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArchitectArithmetic.cs",
+              "DocumentMoniker": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\CodeCademyApplications\\ArchitectArithmetic.cs",
+              "RelativeDocumentMoniker": "CodeCademyApplications\\ArchitectArithmetic.cs",
+              "ToolTip": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\CodeCademyApplications\\ArchitectArithmetic.cs",
+              "RelativeToolTip": "CodeCademyApplications\\ArchitectArithmetic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T05:44:11.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dewet\\source\\repos\\GettingIntoCAgain\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T05:44:00.371Z",
+              "EditorCaption": ""
             }
           ]
         }

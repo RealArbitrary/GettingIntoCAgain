@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace GettingIntoCAgain.CodeCademyApplications
 {
@@ -10,8 +6,6 @@ namespace GettingIntoCAgain.CodeCademyApplications
     {
         public static void CallMe()
         {
-            //TODO Refactor logic to ternary operators
-
             var gameStatus = true;
 
             while (gameStatus)

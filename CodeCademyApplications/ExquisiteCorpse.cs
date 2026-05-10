@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace GettingIntoCAgain.CodeCademyApplications
 {
@@ -41,13 +37,6 @@ namespace GettingIntoCAgain.CodeCademyApplications
                         break;
                 }
             }
-        }
-
-        static void BuildACreature(string head, string body, string feet)
-        {
-            int headNum = TranslateToNumber(head);
-            int bodyNum = TranslateToNumber(body);
-            int feetNum = TranslateToNumber(feet);
         }
 
         static void RandomMode()
