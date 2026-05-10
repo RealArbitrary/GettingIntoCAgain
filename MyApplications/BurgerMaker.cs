@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace GettingIntoCAgain.MyApplications
 {
@@ -17,7 +13,6 @@ namespace GettingIntoCAgain.MyApplications
             Console.WriteLine($"After:\ntheBool: {theBool}, theInt: {theInt}");
         }
 
-
         static void AddIngredients(string param, out bool myBool, out int myInt)
         {
             param = "Checking the logic";
@@ -26,11 +21,6 @@ namespace GettingIntoCAgain.MyApplications
                 myBool = true;
             }
             myInt = 5;
-        }
-
-        static void AddIngredients()
-        {
-            Console.WriteLine("Added Buns!");
         }
     }
 }

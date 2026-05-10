@@ -29,7 +29,6 @@ namespace GettingIntoCAgain.CodeCademyApplications
                 }
             }
         }
-        //TODO Return which character was the upper case one and write it to the user
         private static string CheckPassword(string password)
         {
             bool hasUpper = password.Any(char.IsUpper);

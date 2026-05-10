@@ -1,7 +1,5 @@
 ﻿using System;
 using GettingIntoCAgain.CodeCademyApplications;
-using GettingIntoCAgain.MyApplications;
-using GettingIntoCAgain.MainMenu;
 
 namespace GettingIntoCAgain
 {
